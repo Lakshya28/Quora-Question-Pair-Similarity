@@ -71,3 +71,17 @@ In other words, we can subtract one meaning from the word vector for king (i.e. 
 2. Euclidean distance
 3. Minkowski distance
 4. Jaccard Distance
+
+## Useful Links
+* **TF-IDF**
+  * https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63
+  * https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
+  * https://stevenloria.com/tf-idf/
+  * http://blog.christianperone.com/2011/09/machine-learning-text-feature-extraction-tf-idf-part-i/
+  * http://blog.christianperone.com/2011/10/machine-learning-text-feature-extraction-tf-idf-part-ii/
+* **Word2Vec and Embeddings**
+  * https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf
+  * https://towardsdatascience.com/introduction-to-word-embeddings-4cf857b12edc
+  * https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+  * https://code.google.com/archive/p/word2vec/
+
